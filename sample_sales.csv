@@ -1,0 +1,16 @@
+Date,Product_Category,Region,Units_Sold,Unit_Price,Revenue,Status
+2024-01-05,Electronics,North America,120,299.99,35998.80,Closed Won
+2024-01-12,Apparel,Europe,85,49.99,4249.15,Closed Won
+2024-01-18,Electronics,Asia Pacific,200,199.99,39998.00,Closed Won
+2024-01-22,Home & Garden,North America,60,89.99,5399.40,Closed Lost
+2024-01-29,Electronics,Europe,95,349.99,33249.05,Closed Won
+2024-02-03,Apparel,North America,150,59.99,8998.50,Closed Won
+2024-02-10,Sports & Outdoors,Asia Pacific,75,129.99,9749.25,In Progress
+2024-02-15,Electronics,North America,180,449.99,80998.20,Closed Won
+2024-02-21,Home & Garden,Europe,45,119.99,5399.55,Closed Won
+2024-02-28,Apparel,Asia Pacific,210,39.99,8397.90,Closed Won
+2024-03-05,Sports & Outdoors,North America,90,199.99,17999.10,Closed Won
+2024-03-11,Electronics,Europe,130,379.99,49398.70,In Progress
+2024-03-17,Home & Garden,Asia Pacific,55,99.99,5499.45,Closed Lost
+2024-03-22,Apparel,North America,175,69.99,12248.25,Closed Won
+2024-03-28,Electronics,Asia Pacific,220,259.99,57197.80,Closed Won
